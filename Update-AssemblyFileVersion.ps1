@@ -13,6 +13,7 @@ Throws an exception if the update fails.
 Author:		Eoin Campbell
 	
 .LINK
+http://trycatch.me/automatically-update-the-assemblyfileversion-attribute-of-a-net-assembly/
 
 #>
 
